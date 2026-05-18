@@ -1,0 +1,10 @@
+{
+  "name": "ReactNativeTemplate",
+  "displayName": "React Native Template",
+  "android": {
+    "packageName": "com.reactnativetemplate"
+  },
+  "ios": {
+    "bundleIdentifier": "com.reactnativetemplate"
+  }
+}
